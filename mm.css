@@ -1,0 +1,18 @@
+div{
+  background: #665F3B;
+text-align: center;
+  width:   290px;
+  height: 200px;
+border-radius:20% ;
+background-image:url(" tttr.png") ;
+background-size: 290px;
+}
+input,button{
+  background: black;
+color: white;
+
+}
+::selection{
+  background: blanchedalmond;
+  color: white;
+}
